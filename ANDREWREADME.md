@@ -1,12 +1,14 @@
 # README-Burger APP
 
+![deployed website](./public/assets/images/deployed.PNG)
+
 # Repository Github link
 
 The Github Repo is at: [https://github.com/Andrewjhrussell/burger.git](https://github.com/Andrewjhrussell/burger.git)
 
 # Deploy Heroku link
 
-The Heroku App is located at: [https://frozen-hollows-18077.herokuapp.com/](https://https://frozen-hollows-18077.herokuapp.com/)
+The Heroku App is located at: [https://frozen-hollows-18077.herokuapp.com/](https://frozen-hollows-18077.herokuapp.com/)
 
 # Title:
 
