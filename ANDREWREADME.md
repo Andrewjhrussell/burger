@@ -24,6 +24,8 @@ Title, Description, Table Of Content, Installion, Usage, License, Contribution T
 
 # Installation
 
+MySQL, Heroku, Node,
+
 
 # Usage
 
