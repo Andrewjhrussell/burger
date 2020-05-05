@@ -60,4 +60,3 @@ Travis CI
 
 Andrewjhrussell@gmail.com
 <br>
-# Demo
