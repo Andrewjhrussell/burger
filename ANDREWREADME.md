@@ -1,4 +1,4 @@
-# README-VOLUNTEER APP
+# README-Burger APP
 
 # Repository Github link
 
